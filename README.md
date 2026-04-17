@@ -86,7 +86,7 @@ All queries used in this analysis are saved in the [`/queries`](/queries) folder
 ---
 
 ## Dashboard
-📊 [View Interactive Tableau Dashboard](#) ← link coming soon
+📊 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/cathrina.leblanc/viz/BreastCancerSurvivalAnalysis_17764266948730/BreastCancerSurvivalAnalysisDoesEarlyDetectionSaveLives)
 
 ---
 
